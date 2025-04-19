@@ -1,4 +1,4 @@
-package compromisso
+package main
 
 import (
 	"encoding/json"

@@ -1,4 +1,4 @@
-package compromisso
+package main
 
 // Compromisso representa um compromisso agendado
 type Compromisso struct {
